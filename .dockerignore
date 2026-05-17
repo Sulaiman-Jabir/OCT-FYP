@@ -1,0 +1,10 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+*.pyo
+*.jpeg
+*.jpg
+*.png
+train.py
+predict.py

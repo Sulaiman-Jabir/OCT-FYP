@@ -1,0 +1,6 @@
+eye_disease_model.keras
+model_oct_c8/
+fundus_final/
+venv/
+__pycache__/
+*.pyc
